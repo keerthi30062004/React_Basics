@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://fresher2coder.github.io/react_basics/",
+  "homepage": "https://github.com/keerthi30062004/React_Basics",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
